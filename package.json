@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.0",
-    "@tanstack/react-query": "^4.36.1",
+    "@tanstack/react-query": "^5.17.14",
     "@tanstack/react-query-devtools": "^5.13.3",
     "data-fn": "^1.0.0",
     "date-fn": "^0.0.2",
