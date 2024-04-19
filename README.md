@@ -38,7 +38,7 @@ You can view my certificate of completion [here](https://www.udemy.com/certifica
 
 To set up the The Wild Oasis on your local machine, follow these instructions:
 
-- Clone the repository: 
+- Clone the repository: https://github.com/ingridgsi/the-wild-oasis.git
 - Move to the project directory: cd the-wild-oasis
 - Install necessary dependencies: npm install
 - Launch the development server: npm run dev
