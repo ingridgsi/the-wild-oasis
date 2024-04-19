@@ -21,8 +21,8 @@ function LoginForm() {
       { email, password },
       {
         onSettled: () => {
-          setEmail("");
-          setPassword("");
+          setEmail("ingrid@tech.com");
+          setPassword("20242024");
         },
       }
     );
