@@ -36,6 +36,10 @@ You can view my certificate of completion [here](https://www.udemy.com/certifica
 
 ## Installation Steps:
 
+Use the login to be able to access the application: 
+**email:** ingrid@tech.com 
+**password:** 20242024
+
 To set up the The Wild Oasis on your local machine, follow these instructions:
 
 - Clone the repository: https://github.com/ingridgsi/the-wild-oasis.git
