@@ -3,6 +3,7 @@ import { useCheckout } from "./useCheckout";
 
 function CheckoutButton({ bookingId }) {
   const { checkout, isCheckingOut } = useCheckout();
+
   return (
     <Button
       variation="secondary"
